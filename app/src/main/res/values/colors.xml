@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#118888</color>
+
+    <color name="colorPrimary">#33B7B7</color>
+    <color name="colorAccent">#E17055</color>
+    <color name="colorPrimaryHover">#4CD1D1</color>
+    <color name="colorAccentHover">#CA644C</color>
+    <color name="colorPrimaryFont">#727c80</color>
+    <color name="colorAccentFont">#AAB0B2</color>
+    <color name="colorPositive">#55E170</color>
+    <color name="colorPositiveHover">#4CCA64</color>
+    <color name="colorNegative">#55C6E1</color>
+    <color name="colorNegativeHover">#4CB2CA</color>
+    <color name="colorWhiteHover">#EFEFEF</color>
+</resources>
